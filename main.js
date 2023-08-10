@@ -88,4 +88,49 @@ console.log(cenI);
 let cenO= a && b;
 console.log(cenO);
 
+// Il y a cet operateur logique qu'on appel NON , 
+// N O N  s'ecrit en Javascript en mettant seulement un "!" 
+
+let nonA= !(a>b) && (b<c);
+let nonB= (a>b);
+let nonC= (b<c);
+let nonB2= !a>b;
+let nonB3= a>!b;
+let nonB4= !a>!b;
+let nonB5= a;
+let nonB6= !a;
+
+
+console.log("this here check ")
+
+console.log(nonA);
+console.log("let nonA= !(a>b) && (b<c); ")
+
+console.log(nonB);
+console.log("let nonB= (a>b);")
+
+console.log(nonC);
+console.log("let nonC= (b<c);")
+
+console.log(nonB2);
+console.log("let nonB2= !a>b;")
+
+console.log(nonB3);
+console.log("let nonB3= a>!b;")
+
+console.log(nonB4);
+console.log(" let nonB4= !a>!b  ")
+
+console.log(nonB5);
+console.log("let nonB5= a;")
+
+console.log(nonB6);
+console.log("let nonB6= !a;")
+
+
+
+
+
+
+
 
