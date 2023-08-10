@@ -87,3 +87,5 @@ console.log(cenI);
 
 let cenO= a && b;
 console.log(cenO);
+
+
