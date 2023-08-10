@@ -127,6 +127,98 @@ console.log("let nonB5= a;")
 console.log(nonB6);
 console.log("let nonB6= !a;")
 
+console.log(a)
+console.log("console.log(a)")
+
+
+
+console.log(!a)
+console.log("console.log(!a)")
+
+
+console.log(false);
+console.log("false")
+
+
+console.log(!false);
+console.log("console.log(!false);");
+
+
+console.log("CNAHGE ...ALMOST OTHER THING ")
+
+let bum1= false>false;
+console.log(bum1);
+console.log("let bum1= false>false;");
+
+let buum= true>false;
+console.log(buum);
+console.log("let buum= true>false;");
+
+let bum= false>false;
+console.log(bum);
+console.log("let bum= false>false;");
+
+let buuum= true>true ;
+console.log(buuum);
+console.log("let buuum= true>true ;");
+
+let bu4m = true <true ;
+console.log(bu4m);
+console.log("let bu4m = true <true ;");
+
+let bu5m= true>=false ;
+console.log(bu5m);
+console.log("let bu5m= true>=false ;");
+
+let bu12m = false <true ;
+console.log(bu12m);
+console.log("let bu12m = false <true ;");
+
+let bu13m = false <= true ;
+console.log(bu13m)
+console.log("let bu13m = false <= true ;")
+
+let bu14m = true < true ;
+console.log(bu14m);
+console.log("let bu14m = true < true ;");
+
+let bu6m= false == false ;
+console.log(bu6m);
+console.log("let bu6m= false == false ;");
+
+let bu7m= false !== false ;
+console.log(bu7m);
+console.log("let bu7m= false !== false ;");
+
+let bu8m= true == true ;
+console.log(bu8m);
+console.log("let bu8m= true == true ;");
+
+let bu9m = true <=true ;
+console.log(bu9m);
+console.log("let bu9m = true <=true ;");
+
+let bu10m = !true < true ;
+console.log(bu10m);
+console.log("let bu10m = !true < true ;")
+
+let bu11m = true < !true ;
+console.log(bu11m);
+console.log("let bu11m = true < !true ;")
+
+// NOTE: from these exercices up HERE, I've learned one thing ... and that makes me laugh today ,
+// THAT .. TRUE > FALSE 
+// that ..FALSE < TRUE 
+// True is superieur to FALSE 
+// FALSE IS INFERIOR TO TRUE 
+
+
+
+
+
+
+
+
 
 
 
