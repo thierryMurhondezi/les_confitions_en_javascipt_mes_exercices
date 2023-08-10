@@ -213,11 +213,88 @@ console.log("let bu11m = true < !true ;")
 // FALSE IS INFERIOR TO TRUE 
 
 
+console.log("NEW INFORMATION _ CHEC THE FACTS ");
 
 
 
+let tryOnC= true==0;
+console.log(tryOnC);
+console.log("let tryOnC= true==0;");
 
 
+let tryOnD= true>=0;
+console.log(tryOnD);
+console.log("let tryOnD= true>=0;");
+
+
+
+let tryOnE= true<=0;
+console.log(tryOnE);
+console.log("let tryOnE= true<=0;");
+
+let tryOnJ= 0<true;
+console.log(tryOnJ);
+console.log("let tryOnJ= true<0;");
+
+
+let tryOnI= 0<true;
+console.log(tryOnI);
+console.log("let tryOnJ= 0<true;");
+
+let tryOnP= 0<=true;
+console.log(tryOnP);
+console.log("let tryOnP= true<=0;");
+
+
+let tryOnQ= 0==true;
+console.log(tryOnQ);
+console.log("let tryOnQ= 0==true;");
+
+
+let tryOnR= 0===true;
+console.log(tryOnR);
+console.log("let tryOnJ= 0===true;");
+
+
+let tryOnS= 1<true;
+console.log(tryOnS);
+console.log("let tryOnJ= 1<true;");
+
+
+let tryOnV= 10000<true;
+console.log(tryOnV);
+console.log("let tryOnJ= 10000<true;");
+
+
+let tryOnW= false>0;
+console.log(tryOnW);
+console.log("let tryOnW= false>0;;");
+
+let tryOnU= false>=0;
+console.log(tryOnU);
+console.log("let tryOnW= false>=0;;");
+
+
+let tryOnY= false<0;
+console.log(tryOnY);
+console.log("let tryOnW= false<0;;");
+
+
+let tryOnZ= false==0;
+console.log(tryOnZ);
+console.log("let tryOnW= false==0;;");
+
+let tryOnZZ= true==1;
+console.log(tryOnZZ);
+console.log("let tryOnW= true==1;;");
+
+
+// SURPRISE SURPRISE ..NOTICED ... TRUE > O !! BUT NOT TO 1 
+// TRUE > 0 ===> TRUE 
+// TRUE > 1 ===> FALSE 
+// NOW I NOTICED 
+
+// KEVIN MY COWORKER , MADE ME NOTICE ... 1 AND 0 ARE BOLEANS !! 
 
 
 
